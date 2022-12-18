@@ -1,0 +1,48 @@
+
+/*
+ Localizable.strings
+ Book Nook
+ 
+ Created by Ghayah Almadi on 07/12/2022.
+ 
+ */
+
+
+"About me"="About me";
+"About the book"="About the book";
+"Account"="Account";
+"Add a Book"="Add a book";
+"Arabic Books For You"="Arabic Books For You";
+"Author"="Author";
+"Badges"="Badges";
+"Books For You"="Books For You";
+"Book Title"="Book Title";
+"Community reviews"="Community reviews";
+"Currently Reading"="Currntly Reading";
+"Delete My Account"="Delete My Account";
+"Display Name"="Display Name";
+"Don’t have an account? Sign up"="Don’t have an account? Sign up";
+"Edit"="Edit";
+"Email"="Email";
+"English Books For You"="English Books For You";
+"Explore"="Explore";
+"Followers"="Followers";
+"Following"="Following";
+"Forget your Password?"="Forget your Password?";
+"Help us expand our library! Tell us a little about the book"="Help us expand our library! Tell us a little about the book";
+"Library"="Library";
+"More"="More";
+"My Library"="My Library";
+"or"="or";
+"Password"="Password";
+"Profile"="Profile";
+"Send!"="Send!";
+"Settings"="Settings";
+"Sign in"="Sign in";
+"Sign in with Apple"="Sign in with Apple";
+"Sign up"="Sign up";
+"Sign up with Apple"="Sign up with Apple";
+"Tell us what you think"="Tell us what you think";
+"Trending Books"="Trending Book";
+"Want to Read"="Want to Read";
+

@@ -1,0 +1,49 @@
+
+/*
+ Localizable.strings
+ Book Nook
+ 
+ Created by Ghayah Almadi on 07/12/2022.
+ 
+ */
+
+
+
+"About me"="عني";
+"About the book"="عن الكتاب";
+"Account"="الحساب";
+"Add a Book"="أضف كتاب";
+"Arabic Books For You"="كتب عربية لك";
+"Author"="مؤلف";
+"Badges"="انجازاتي";
+"Books For You"="كتب قد تنال اعجابك";
+"Book Title"="عنوان كتاب";
+"Community reviews"="التقيمات";
+"Currently Reading"="أقرأ حاليا";
+"Delete My Account"="احذف حسابي";
+"Display Name"="اسم العرض";
+"Don’t have an account? Sign up"="ليس لديك حساب؟ اشترك";
+"Edit"="عدل";
+"Email"="البريد الإلكتروني";
+"English Books For You"="كتب إنجليزية لك";
+"Explore"="تصفح";
+"Followers"="متابعيني";
+"Following"="متابع";
+"Forget your Password?"="نسيت كلمة المرور؟";
+"Help us expand our library! Tell us a little about the book"="ساعدنا في توسيع مكتبتنا! اخبرنا قليلا عن الكتاب";
+"Library"="مكتبة";
+"More"="المزيد";
+"My Library"="مكتبتي";
+"or"="or";
+"Password"="كلمة المرور";
+"Profile"="حسابي";
+"Send!"="إرسال!";
+"Settings"="إعدادات";
+"Sign in"="تسجيل الدخول";
+"Sign in with Apple"="قم بتسجيل الدخول باستخدام Apple";
+"Sign up"="اشترك";
+"Sign up with Apple"="قم بالتسجيل مع Apple";
+"Tell us what you think"="شارك رأيك";
+"Trending Books"="كتب شائعة";
+"Want to Read"="اريد ان اقرأ";
+
